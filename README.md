@@ -13,7 +13,8 @@ Step 7: Commit your changes by writing a summary of the changes you made in the 
 Step 8: Push your changes to Github by clicking on the "Push origin" button in the top right corner of the screen.
 
 # About Me
-## About Me
+## My Interests 
+Some Interests I have are playing video games, listening to music, and building keyboards. 
 ## Websites I Recommend
-  - [Youtube](https://www.youtube.com/) =
-  - [Roblox](https://www.roblox.com/home) =
+  - [Youtube](https://www.youtube.com/) = I find Youtube interesting because there is a variety of videos to watch on it. There is just about anything from music and gaming to turtorials and vlogs. 
+  - [Roblox](https://www.roblox.com/home) = I like Roblox because it is a platform where you can play many games created by other users. My favorite games on Roblox would be tycoon or obby games.
