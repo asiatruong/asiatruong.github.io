@@ -11,3 +11,9 @@ Step 5: You will add files to this folder in future assignments, so be sure you 
 Step 6: Open Github Desktop and select the repository you just cloned in the left column.
 Step 7: Commit your changes by writing a summary of the changes you made in the "Summary" field and clicking on the "Commit" button in the bottom left corner of the screen.
 Step 8: Push your changes to Github by clicking on the "Push origin" button in the top right corner of the screen.
+
+# About Me
+## About Me
+## Websites I Recommend
+  - [Youtube](https://www.youtube.com/) =
+  - [Roblox](https://www.roblox.com/home) =
